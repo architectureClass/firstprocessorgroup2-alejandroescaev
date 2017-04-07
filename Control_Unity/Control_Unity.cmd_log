@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/utp/Xilinx/Project1/Control_Unity/Control_Unity.xst" -ofn "C:/Users/utp/Xilinx/Project1/Control_Unity/Control_Unity.syr" 

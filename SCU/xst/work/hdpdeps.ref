@@ -1,0 +1,8 @@
+V3 3
+FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/SCU/SCU.vhd" 2017/04/06.20:09:02 P.20131013
+EN work/SCU 1491527347 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/SCU/SCU.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/SCU/Behavioral 1491527348 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/SCU/SCU.vhd" \
+      EN work/SCU 1491527347

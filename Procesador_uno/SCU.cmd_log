@@ -1,0 +1,1 @@
+vhdtdtfi -prj Procesador_uno -o "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Procesador_uno/SCU.vhi" -module SCU -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../SCU/SCU.vhd 

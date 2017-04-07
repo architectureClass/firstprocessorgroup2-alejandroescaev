@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/utp/Xilinx/Project1/Adder_p1/Adder_p1.xst" -ofn "C:/Users/utp/Xilinx/Project1/Adder_p1/Adder_p1.syr" 

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Procesador_uno/Procesador_uno.xst" -ofn "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Procesador_uno/Procesador_uno.syr" 

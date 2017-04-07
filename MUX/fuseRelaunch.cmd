@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/MUX/MUX_TB_isim_beh.exe" -prj "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/MUX/MUX_TB_beh.prj" "work.MUX_TB" 

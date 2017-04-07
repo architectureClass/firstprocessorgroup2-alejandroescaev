@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/instructionMermory/InstructionMemory_p1_tb_isim_beh.exe" -prj "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/instructionMermory/InstructionMemory_p1_tb_beh.prj" "work.InstructionMemory_p1_tb" 

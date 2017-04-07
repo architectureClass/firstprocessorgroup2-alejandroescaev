@@ -1,0 +1,2 @@
+vhdl work "Control_Unity.vhd"
+vhdl work "Control_Unity_TB.vhd"

@@ -1,0 +1,67 @@
+V3 35
+FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Adder_p1/Adder_p1.vhd" 2017/04/05.16:29:36 P.20131013
+EN work/Adder_p1 1491589119 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Adder_p1/Adder_p1.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Adder_p1/Behavioral 1491589120 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Adder_p1/Adder_p1.vhd" \
+      EN work/Adder_p1 1491589119
+FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/ALU/ALU.vhd" 2017/04/06.21:37:21 P.20131013
+EN work/ALU 1491589133 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/ALU/ALU.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ALU/Behavioral 1491589134 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/ALU/ALU.vhd" \
+      EN work/ALU 1491589133
+FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Control_Unity/Control_Unity.vhd" 2017/04/05.17:25:56 P.20131013
+EN work/Control_Unity 1491589127 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Control_Unity/Control_Unity.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Control_Unity/Behavioral 1491589128 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Control_Unity/Control_Unity.vhd" \
+      EN work/Control_Unity 1491589127
+FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/instructionMermory/InstructionMemory_p1.vhd" 2017/04/07.12:25:18 P.20131013
+EN work/InstructionMemory_p1 1491589123 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/instructionMermory/InstructionMemory_p1.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/InstructionMemory_p1/Behavioral 1491589124 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/instructionMermory/InstructionMemory_p1.vhd" \
+      EN work/InstructionMemory_p1 1491589123
+FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/MUX/MUX.vhd" 2017/04/06.20:29:09 P.20131013
+EN work/MUX 1491589131 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/MUX/MUX.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/MUX/Behavioral 1491589132 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/MUX/MUX.vhd" \
+      EN work/MUX 1491589131
+FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Procesador_uno/Procesador_uno.vhd" 2017/04/07.13:18:25 P.20131013
+EN work/Procesador_uno 1491589135 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Procesador_uno/Procesador_uno.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Procesador_uno/Behavioral 1491589136 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Procesador_uno/Procesador_uno.vhd" \
+      EN work/Procesador_uno 1491589135 CP Adder_p1 CP Program_Counter \
+      CP InstructionMemory_p1 CP RegisteFile CP Control_Unity CP SCU CP MUX CP ALU
+FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Program_Counter/Program_Counter.vhd" 2017/04/05.16:45:47 P.20131013
+EN work/Program_Counter 1491589121 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Program_Counter/Program_Counter.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Program_Counter/Behavioral 1491589122 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Program_Counter/Program_Counter.vhd" \
+      EN work/Program_Counter 1491589121
+FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/RegisterFile/RegisteFile.vhd" 2017/04/07.11:53:16 P.20131013
+EN work/RegisteFile 1491589125 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/RegisterFile/RegisteFile.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/RegisteFile/Behavioral 1491589126 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/RegisterFile/RegisteFile.vhd" \
+      EN work/RegisteFile 1491589125
+FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/SCU/SCU.vhd" 2017/04/06.20:09:02 P.20131013
+EN work/SCU 1491589129 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/SCU/SCU.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/SCU/Behavioral 1491589130 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/SCU/SCU.vhd" \
+      EN work/SCU 1491589129

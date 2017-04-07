@@ -1,0 +1,1 @@
+vhdtdtfi -prj Procesador_uno -o "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/Procesador_uno/InstructionMemory_p1.vhi" -module InstructionMemory_p1 -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../instructionMermory/InstructionMemory_p1.vhd 

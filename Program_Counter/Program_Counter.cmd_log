@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/utp/Xilinx/Project1/Program_Counter/Program_Counter.xst" -ofn "C:/Users/utp/Xilinx/Project1/Program_Counter/Program_Counter.syr" 

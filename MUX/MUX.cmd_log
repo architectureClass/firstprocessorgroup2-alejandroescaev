@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/MUX/MUX.xst" -ofn "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/MUX/MUX.syr" 
+xst -intstyle ise -ifn "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/MUX/MUX.xst" -ofn "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/MUX/MUX.syr" 

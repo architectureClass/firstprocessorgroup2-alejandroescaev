@@ -1,0 +1,2 @@
+vhdl work "RegisteFile.vhd"
+vhdl work "RegisterFile_TB.vhd"
